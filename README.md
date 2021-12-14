@@ -1,4 +1,7 @@
 # Brainfuck
+![Language](https://img.shields.io/badge/language-Java%20-orange.svg)
+![Language](https://img.shields.io/badge/language-Brainfuck%20-Antique-ruby.svg)
+
 ## About The Language 
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller.
 It is notable for its extreme minimalism, the language consists of only eight simple commands, a data pointer and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge, and amuse programmers. Brainfuck simply requires one to break commands into microscopic steps.
