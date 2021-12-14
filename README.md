@@ -15,3 +15,8 @@ The language's name is a reference to the slang term brainfuck, which refers to 
 * `]` = If the byte at the data pointer is nonzero, then instead of moving the instruction pointer forward to the next command, jump it back to the command after the matching `[` command
 
 ![image](https://user-images.githubusercontent.com/58489322/145904609-d8eb8bfc-0f80-4862-8464-3a25bfe0bc3b.png)
+
+## User Manual
+You have two options : 
+1) converting a text file to a brainfuck file.
+2) converting a brainfuck file to a text file.
