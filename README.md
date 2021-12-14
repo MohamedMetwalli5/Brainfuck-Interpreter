@@ -18,5 +18,5 @@ The language's name is a reference to the slang term brainfuck, which refers to 
 
 ## User Manual
 You have two options : 
-1) converting a text file to a brainfuck file.
-2) converting a brainfuck file to a text file.
+1) `option = 1` : converting a text file to a brainfuck file.
+2) `option = 2` : converting a brainfuck file to a text file.
