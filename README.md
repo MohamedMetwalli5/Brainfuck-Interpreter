@@ -1,6 +1,6 @@
 ![Language](https://img.shields.io/badge/language-Brainfuck%20-red.svg)
 ![Language](https://img.shields.io/badge/language-Java%20-orange.svg)
-![License](https://img.shields.io/badge/License-GPL&ndash;3.0%20-purple.svg)
+![License](https://img.shields.io/badge/license-Apache_2.0-green.svg)
 
 # Brainfuck Interpreter
 
