@@ -1,7 +1,8 @@
 
 ![Language](https://img.shields.io/badge/language-Brainfuck%20-red.svg)
 ![Language](https://img.shields.io/badge/language-Java%20-orange.svg)
-# Brainfuck
+
+# Brainfuck Interpreter
 
 ## About The Language 
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller.
