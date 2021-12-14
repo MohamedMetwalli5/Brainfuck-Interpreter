@@ -1,2 +1,0 @@
-module Brainfuck_Interpreter {
-}
