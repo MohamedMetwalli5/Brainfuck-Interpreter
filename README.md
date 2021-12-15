@@ -2,6 +2,8 @@
 ![Language](https://img.shields.io/badge/language-Java%20-orange.svg)
 ![License](https://img.shields.io/badge/license-Apache_2.0-green.svg)
 
+_If you like this project, please leave me a star._ &#9733;
+
 # Brainfuck Interpreter
 
 ## About The Language 
